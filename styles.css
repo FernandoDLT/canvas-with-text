@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #dd0e0e;
+}
+
+/* canvas {
+  width: 200px;
+  height: 100px;
+  border: 0px solid #dd0e0e;
+} */
